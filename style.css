@@ -1,10 +1,10 @@
 #window{
     margin-top: 50px;
-    background-color: #000;
+    background-color: rgb(40, 240, 14);
     color: #fff;
     padding: 15px;
     border-radius: 20px;
-    box-shadow: 0 0 5px black;
+    box-shadow: 0 0 5px rgb(240, 9, 9);
 }
 .swapbox_select {
     width: 50%;
@@ -16,13 +16,13 @@
     padding: 20px;
     background-color: #2f2f2f;
     border-radius: 20px;
-    border: 1px solid #565656;
+    border: 1px solid #ee0909;
 }
 .token_select{
     padding:5px 0;
 }
 .token_select:hover{
-    background-color: #464646;
+    background-color: #b8f70e;
     cursor: pointer;
     
 }
@@ -37,6 +37,6 @@
     padding: 5px 10px;
 }
 .token_row:hover{
-    background-color: #e4e4e4;
+    background-color: #8eb7f5;
     cursor: pointer;
 }
